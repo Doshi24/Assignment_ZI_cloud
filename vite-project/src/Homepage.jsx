@@ -19,7 +19,7 @@ function Homepage() {
           <Top_nav />
         </div>
 
-        <div className='flex-1 overflow-y-auto'>
+        <div className='ml-4 flex-1 overflow-y-auto'>
             <Heropage />
         </div>
       </div>
