@@ -13,7 +13,7 @@ function Leftside_nav() {
 
       {/* Profile */}
       <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-gray-200">
-        <img src="/profile.jpg" alt="User" className="w-full h-full object-cover" />
+        <img src="/monil.jpg" alt="User" className="w-full h-full object-cover" />
       </div>
 
       {/* Icons */}
