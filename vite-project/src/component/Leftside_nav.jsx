@@ -5,7 +5,7 @@ function Leftside_nav() {
   const bottomIcons = [Settings, LogOut];
   const activeIndex = 0; 
   return (
-    <aside className="w-20 bg-white flex flex-col items-center py-6 space-y-8 shadow-2xl ml-3  mr-3">
+    <aside className="w-20 bg-white flex flex-col items-center py-6 space-y-8 shadow-2xl  mr-3">
       {/* Top Star */}
       <button className="text-yellow-400 hover:scale-110 transition-transform">
         <Sparkle size={18} />

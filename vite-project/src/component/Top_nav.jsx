@@ -2,7 +2,7 @@ import { Pencil, ChevronLeft } from "lucide-react";
 
  function Top_nav() {
   return (
-    <nav className="flex items-center justify-between bg-white px-6 py-3 w-full border border-gray-300 rounded-lg m-1">
+    <nav className="flex items-center justify-between bg-white px-6 py-3 w-full border border-gray-300 rounded-lg m-1 ml-3 mt-3 mr-3">
       {/* Left Section */}
       <div className="flex items-center space-x-3">
         <button className="p-2 hover:bg-gray-100 rounded-lg border  border-gray-300">

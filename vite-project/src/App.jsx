@@ -1,12 +1,10 @@
-import Leftside_nav from "./component/Leftside_nav"
-import Top_nav from "./component/Top_nav"
+import Homepage from "./Homepage"
 function App() {
 
 
   return (
     <>
-        <Top_nav />    
-        <Leftside_nav />
+      <Homepage />
     </>
   )
 }
